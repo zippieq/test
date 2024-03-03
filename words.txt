@@ -1,0 +1,6 @@
+apple 
+banana
+monkey
+elephant
+human
+interesting
